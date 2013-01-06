@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=KeePassX
+Exec=/usr/bin/keepassx
+Icon=/home/tony/.config/awesome/launchbar/icons/keepassx.png
+Position=5

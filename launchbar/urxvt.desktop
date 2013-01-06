@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Urxvt
+Exec=/usr/bin/urxvt
+Icon=/home/tony/.config/awesome/launchbar/icons/urxvt.png
+Position=3

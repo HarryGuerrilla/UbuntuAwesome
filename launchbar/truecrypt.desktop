@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=TrueCrypt
+Exec=/usr/bin/truecrypt
+Icon=/home/tony/.config/awesome/launchbar/icons/truecrypt.png
+Position=6

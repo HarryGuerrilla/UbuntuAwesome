@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Pcmanfm
+Exec=/usr/bin/pcmanfm
+Terminal=false
+Icon=/home/tony/.config/awesome/launchbar/icons/pcmanfm.png
+Position=1

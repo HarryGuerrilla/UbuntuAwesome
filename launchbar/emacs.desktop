@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Emacs
+Exec=/usr/bin/emacs
+Terminal=false
+Icon=/home/tony/.config/awesome/launchbar/icons/emacs.png
+Position=4
